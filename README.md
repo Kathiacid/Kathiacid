@@ -14,7 +14,7 @@ const kat = {
   pronouns: "she" | "her",
   code: [Python],
   learning: [CSS,HTML],
-  year: ["fisrt", "second semester", "Proggramer Analyst"],
+  year: ["first", "second semester", "Proggramer Analyst"],
   tools: {
                         Oracle: "datamodeler",
                         appserv: "mysql",
