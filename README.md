@@ -6,7 +6,7 @@
 
   [![Instagram: unlimitedd.o](https://img.shields.io/badge/Instagram-pink?style=plastic&color=%23FF69B4)](https://www.instagram.com/unlimitedd.o/)
   [![Youtube: kaattkat](https://img.shields.io/badge/Youtube-red?style=plastic&color=%23DC143C)](https://www.youtube.com/@kaattkat) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  [![EF certificate](https://img.shields.io/badge/Youtube-green?style=plastic&color=%23DC143C)]((https://cert.efset.org/es/1GVi9V)) 
+  [![EF certificate](https://img.shields.io/badge/EF%20certificate-blue?style=plastic)](https://cert.efset.org/es/1GVi9V) 
 
 
 
