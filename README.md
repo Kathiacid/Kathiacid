@@ -24,3 +24,14 @@ const kat = {
                       },
 }
 ```
+<h2>My skills</h2>
+<h3>Languages</h3>
+<span>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/HTML-%23FAC898?style=for-the-badge&logo=html5">
+  
+<h3>IDE</h3>
+<span>
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230088ff?style=for-the-badge">
+</span>
