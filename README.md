@@ -36,4 +36,10 @@ const kat = {
   <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230088ff?style=for-the-badge">
 </span>
 <h3>Frameworks</h3>
-coming soon...
+coming soon...<br>
+<img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/><br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiacid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
