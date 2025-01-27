@@ -14,29 +14,34 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const kat = {
-  pronouns: "she" | "her",
-  code: [Python],
-  learning: [CSS,HTML],
-  year: ["first", "second semester", "Proggramer Analyst"],
+  pronouns: ["she", "her"],
+  code: ["Python"],
+  learning: ["CSS", "HTML"],
+  year: "first or second semester, Programmer Analyst",
   tools: {
-                        Oracle: "datamodeler",
-                        appserv: "mysql",
-                      },
-}
+    oracle: "Data Modeler",
+    appserv: "MySQL",
+  },
+};
+
 ```
 <h2>My skills</h2>
-<h3>Languages</h3>
+<h3>🌐 Languages</h3>
 <span>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/HTML-%23FAC898?style=for-the-badge&logo=html5">
   
-<h3>IDE</h3>
+<h3>🛠️ IDE</h3>
 <span>
-  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230088ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230088ff?style=for-the-badge">
+
+<h3>🔧 Other Technologies </h3>
+<img alt="Static Badge" src="https://img.shields.io/badge/My%20sql-lightblue?style=for-the-badge&logo=mysql&logoColor=orange">
+
 </span>
-<h3>Frameworks</h3>
-coming soon...<br>
+<h3>📚 Frameworks</h3>
+🚀 Coming soon...<br>
 <img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiacid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
