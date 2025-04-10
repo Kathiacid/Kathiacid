@@ -36,12 +36,13 @@ const kat = {
 <span>
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230088ff?style=for-the-badge">
 
-<h3>🔧 Other Technologies </h3>
+<h3>🛢 Data base</h3>
 <img alt="Static Badge" src="https://img.shields.io/badge/My%20sql-lightblue?style=for-the-badge&logo=mysql&logoColor=orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white">
 
 </span>
-<h3>📚 Frameworks</h3>
-🚀 Coming soon...<br>
+<h3>📚 Frameworks/Libraries</h3>
+<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
 <img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiacid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
