@@ -16,14 +16,13 @@
 const kat = {
   pronouns: ["she", "her"],
   code: ["Python"],
-  learning: ["CSS", "HTML"],
-  year: "first or second semester, Programmer Analyst",
+  learning: ["CSS", "HTML", "JavaScript"],
+  year: "second year, first semester - Programmer Analyst",
   tools: {
-    oracle: "Data Modeler",
-    appserv: "MySQL",
+    design: "Figma",
+    versionControl: "Git",
   },
 };
-
 ```
 <h2>My skills</h2>
 <h3>🌐 Languages</h3>
