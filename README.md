@@ -16,11 +16,10 @@
 const kat = {
   pronouns: ["she", "her"],
   code: ["Python"],
-  learning: ["CSS", "HTML", "JavaScript"],
+  learning: ["JavaScript"],
   year: "second year, first semester - Programmer Analyst",
   tools: {
     design: "Figma",
-    versionControl: "Git",
   },
 };
 ```
