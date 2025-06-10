@@ -29,6 +29,8 @@ const kat = {
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/HTML-%23FAC898?style=for-the-badge&logo=html5">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+
   
 <h3>🛠️ IDE</h3>
 <span>
@@ -42,6 +44,15 @@ const kat = {
 <h3>📚 Frameworks/Libraries</h3>
 <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
 <img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/><br>
+<img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+
+<span></span>
+<h3>🎨 Herramientas de diseño</h3>
+<img alt="Static Badge" src="https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma">
+<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-darkblue?style=for-the-badge&logo=photoshop&logoColor=white">
+
+
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiacid&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
