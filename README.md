@@ -48,7 +48,7 @@ const kat = {
 <span></span>
 <h3>🎨 Herramientas de diseño</h3>
 <img alt="Static Badge" src="https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma">
-<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-darkblue?style=for-the-badge&logo=photoshop&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-darkblue?style=for-the-badge&logo=photoshop&logoColor=white"><br>
 
 
 
