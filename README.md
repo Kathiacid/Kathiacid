@@ -15,9 +15,9 @@
 ```javascript
 const kat = {
   pronouns: ["she", "her"],
-  code: ["Python"],
+  code: ["React"],
   learning: ["JavaScript"],
-  year: "second year, first semester - Programmer Analyst",
+  year: "last semester - Programmer Analyst",
   tools: {
     design: "Figma",
   },
