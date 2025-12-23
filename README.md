@@ -30,6 +30,9 @@ const kat = {
 <img src="https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/HTML-%23FAC898?style=for-the-badge&logo=html5">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white">
 
   
 <h3>🛠️ IDE</h3>
@@ -44,6 +47,7 @@ const kat = {
 <h3>📚 Frameworks/Libraries</h3>
 <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 
 <span></span>
 <h3>🎨 Herramientas de diseño</h3>
